@@ -60,7 +60,7 @@ At the end, you can export the data and view the generated graphs.
 
 ## 📊 Example use case
 
-Simulate an object falling toward a planet, observing how gravitational acceleration increases as distance decreases — visualized through the automatically generated position, velocity, and acceleration graphs.
+Simulate an object falling toward a planet, observing how gravitational acceleration increases as distance decreases, visualized through the automatically generated position, velocity, and acceleration graphs.
 
 ## ⚠️ Known limitations
 
